@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Photograph-Project/static/css/main.6b3d4eb9.css",
-    "main.js": "/Photograph-Project/static/js/main.571c4247.js",
+    "main.js": "/Photograph-Project/static/js/main.b6cc5a1b.js",
     "static/js/787.71df535f.chunk.js": "/Photograph-Project/static/js/787.71df535f.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/Photograph-Project/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/Photograph-Project/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -38,11 +38,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/Photograph-Project/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/Photograph-Project/index.html",
     "main.6b3d4eb9.css.map": "/Photograph-Project/static/css/main.6b3d4eb9.css.map",
-    "main.571c4247.js.map": "/Photograph-Project/static/js/main.571c4247.js.map",
+    "main.b6cc5a1b.js.map": "/Photograph-Project/static/js/main.b6cc5a1b.js.map",
     "787.71df535f.chunk.js.map": "/Photograph-Project/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b3d4eb9.css",
-    "static/js/main.571c4247.js"
+    "static/js/main.b6cc5a1b.js"
   ]
 }
